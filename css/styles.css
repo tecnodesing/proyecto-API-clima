@@ -5,6 +5,10 @@ html {
     
 }
 
+.icono-clima{
+  display: flex;
+  justify-content: center;
+}
 
 .sk-fading-circle {
     margin: 100px auto;
